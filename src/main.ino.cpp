@@ -1,6 +1,7 @@
 #include <LilyGoLib.h>
 #include <LV_Helper.h>
 #include <WiFi.h>
+#include <watchface.h>
 #include "ui.h"
 #include "js.h"
 #include "jsServer.h"
